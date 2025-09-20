@@ -1,12 +1,11 @@
 ---
-
-# Brain Tumor Classification using a Convolutional Neural Network (CNN)
-
-This project uses a **Convolutional Neural Network (CNN)** built with TensorFlow and Keras to classify brain MRI images. The model is trained to distinguish between four categories: **glioma tumor**, **meningioma tumor**, **pituitary tumor**, and **no tumor**.
-
-The code is designed to run in a **Google Colab** environment, leveraging Google Drive for dataset storage.
-
+title: "Brain Tumor Classification using a Convolutional Neural Network (CNN)"
+description: "This project uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras to classify brain MRI images. The model is trained to distinguish between four categories: glioma tumor, meningioma tumor, pituitary tumor, and no tumor. The code is designed to run in a Google Colab environment, leveraging Google Drive for dataset storage."
 ---
+
+## Brain Tumor Classification using a Convolutional Neural Network (CNN)
+
+This project uses a **Convolutional Neural Network (CNN)** built with TensorFlow and Keras...
 
 ## Project Workflow
 
